@@ -23,7 +23,7 @@ git clone https://github.com/Ashot72/multilingual-voice-translation-elevenlabs
 cd multilingual-voice-translation-elevenlabs
 
 # Copy .env.example to create a new .env file, then add your ELEVENLABS_API_KEY and AGENT_IDs.
-cp env.example .env
+cp .env.example .env
 
 # Install dependencies
 npm install
