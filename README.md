@@ -2,7 +2,7 @@
 
 I built a real-time multilingual voice translation app powered by ElevenLabs Generative AI, translating speech instantly with lifelike, expressive voices. The demo shows how to use predefined voices and instant voice cloning, and we explore the ElevenLabs dashboard to create, manage, and connect voices to AI agents easily.
 
-The real-time voice translation app using ElevenLabs Generative AI. The backend securely generates a signed URL, while the frontend connects to ElevenLabs’ Conversational AI for live translation using predefined agent configurations. WebSocket communication is handled transparently by the ElevenLabs client library, so no direct WebSocket code is required.
+The backend securely generates a signed URL, while the frontend connects to ElevenLabs’ Conversational AI for live translation using predefined agent configurations. WebSocket communication is handled transparently by the ElevenLabs client library, so no direct WebSocket code is required.
 
 Showcases real-time translation across multiple languages (English, Russian, Chinese, and Spanish), using both predefined AI voices and cloned human voices — including the ability to hear translations spoken back in your own voice.
 
